@@ -13,7 +13,7 @@ const HeroSection = () => {
                 objectFit: "cover",
                 transform: "translateX(8px) translateY(2px) rotate(5deg)",
               }}
-              src="src/assets/images/my-picture.png"
+              src="/images/my-picture.png"
               alt="my-picture"
             />
           </div>
